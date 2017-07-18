@@ -1,0 +1,38 @@
+
+
+Please enter the number of elements to be inserted for the first trial: 
+10
+The tree size is 10
+Average Height 4.7
+
+Please enter the number of elements to be inserted for the first trial: 
+1000
+The tree size is 1000
+Average Height 20.55
+
+The ratio of the average height to the log, base 2, of the tree size is 
+2.0620554702982714
+
+The tree size is 2000
+Average Height 24.0
+
+The ratio of the average height to the log, base 2, of the tree size is 
+2.1886259456671016
+
+The tree size is 4000
+Average Height 26.8
+
+The ratio of the average height to the log, base 2, of the tree size is 
+2.239719466976571
+
+The tree size is 8000
+Average Height 29.3
+
+The ratio of the average height to the log, base 2, of the tree size is 
+2.2597938818603147
+
+The tree size is 16000
+Average Height 32.5
+
+The ratio of the average height to the log, base 2, of the tree size is 
+2.327115995604565

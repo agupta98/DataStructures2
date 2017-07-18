@@ -1,0 +1,58 @@
+Enter the path
+src/Lab10
+Enter the FileName
+students-64000.dat 
+Time taken to load the records in a linked list: 388.41904 miliseconds
+Size : 64000
+Time taken to load the records in a BST: 332.679878 miliseconds
+Size : 64000
+
+
+
+Searching for record 483293267
+Record Found McGovern, Meredith Gaston 483293267
+Searching time in a linked list : 14.794268 miliseconds
+Searching time in a binary search tree : 0.079543 miliseconds
+
+
+
+Searching for record 1902997270
+Record Found Maddow, Dorothy Daniele 1902997270
+Searching time in a linked list : 15.820211 miliseconds
+Searching time in a binary search tree : 0.008125 miliseconds
+
+
+
+Searching for record 856408684
+Record Found Maddow, Jianfei Rivest 856408684
+Searching time in a linked list : 15.904031 miliseconds
+Searching time in a binary search tree : 0.00727 miliseconds
+
+
+
+Searching for record 143507366
+Record Found Maddow, Andrew Kumar 143507366
+Searching time in a linked list : 12.6081 miliseconds
+Searching time in a binary search tree : 0.039344 miliseconds
+
+
+
+Searching for record 307954472
+Record Found McGovern, Henk Scott 307954472
+Searching time in a linked list : 8.695065 miliseconds
+Searching time in a binary search tree : 0.007698 miliseconds
+
+
+
+Searching for record 876561221
+No record found
+Searching time in a linked list : 9.813381 miliseconds
+Searching time in a binary search tree : 0.00898 miliseconds
+
+For LinkedList
+Answer a-StudentId which takes most time 856408684.As the complexity is o(n)
+b- StudentId 307954472 takes least time as complexity is o(n).
+For BST
+c-StudentId 483293267 takes most time because complexity is log(n)
+d-StudentId 307954472 takes least time as complexity is log(n)
+
